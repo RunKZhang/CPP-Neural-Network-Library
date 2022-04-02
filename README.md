@@ -1,4 +1,4 @@
-# CPP-Neural-Network-Library
+# CPP-Neural-Network-Library-From-Scratch
 This is a header-only cpp neural network library from scratch and it is for my undergraduate thesis.
 
 # Prerequisites
