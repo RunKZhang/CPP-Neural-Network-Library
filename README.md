@@ -2,11 +2,11 @@
 This is a header-only cpp neural network library from scratch and it is for my undergraduate thesis.
 
 # Prerequisites
-CMake 3.23.0:https://cmake.org/download/
+CMake 3.23.0: https://cmake.org/download/
 
 This project is built by using CMake, so it is necessary to install CMake in your computer before compile the project.
 
-Eigen 3.4.0 or above:https://eigen.tuxfamily.org/index.php?title=Main_Page
+Eigen 3.4.0 or above: https://eigen.tuxfamily.org/index.php?title=Main_Page
 
 autodiff 0.6.7 or above: https://github.com/autodiff/autodiff
 
