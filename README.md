@@ -13,7 +13,7 @@ autodiff 0.6.7 or above: https://github.com/autodiff/autodiff
 If you have installed the two libraries mentioned above, please put the folders of them under the root directory of this project.
 
 # FIles explanation 
-src has the directory of all the header files and main program contained.
+*src* has the directory of all the header files and main program contained.
 
 *neurobase.h* contains the base class for the neurons of network.
 
